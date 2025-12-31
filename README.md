@@ -8,7 +8,7 @@ At first, it feels like Rust is breaking its own rules:
 > How can a mutable reference be reborrowed as immutable?  
 > How can it even be reborrowed as mutable again?
 
-This document explains **only reborrowing** — what it is, why it exists,
+Let's see **reborrowing** — what it is, why it exists,
 and the different cases Rust allows — using a simple mental model.
 
 ---
