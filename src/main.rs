@@ -81,7 +81,7 @@ fn main() {
     // CASE 7: What is NEVER allowed
     // =========================================================
 
-    // let z = &mut y;     // ❌ NOT ALLOWEDß
+    // let z = &mut y;     // ❌ NOT ALLOWED
     // Cannot create another mutable reference while m exists
 
     // let i = &y;         // ❌ NOT ALLOWED
