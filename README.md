@@ -1,6 +1,6 @@
 # Understanding Reborrowing in Rust
 
-Reborrowing is one of the most confusing — and most important — ideas in Rust’s
+Reborrowing is one of the confusing — and most important — ideas in Rust’s
 borrow checker.
 
 At first, it feels like Rust is breaking its own rules:
